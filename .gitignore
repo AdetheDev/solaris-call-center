@@ -35,10 +35,10 @@ qa_reroute_test.js
 qa_solaris_frontend.js
 README.md
 
-backend/__pycache__
-backend/.pytest_cache
-backend/qa_backend_test.py
-backend/test_websocket.py
-backend/README.md
-backend/ARCHITECTURE.md
-backend/API_SPEC.md
+__pycache__
+.pytest_cache
+qa_backend_test.py
+test_websocket.py
+README.md
+ARCHITECTURE.md
+API_SPEC.md
