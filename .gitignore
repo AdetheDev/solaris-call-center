@@ -34,3 +34,11 @@ qa_project_frontend_phase2.js
 qa_reroute_test.js
 qa_solaris_frontend.js
 README.md
+
+backend/__pycache__
+backend/.pytest_cache
+backend/qa_backend_test.py
+backend/test_websocket.py
+backend/README.md
+backend/ARCHITECTURE.md
+backend/API_SPEC.md
